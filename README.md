@@ -9,3 +9,7 @@ Updating the RIAU (Regional Information Analysis Unit) Story Map, I enhanced its
 For the ROD (Regional Operations Division) SharePoint site, I improved functionality and visual representation, optimizing navigation, load times, and overall performance. I revamped the design elements to create a more modern, engaging interface and implemented adjustments to enhance accessibility and usability.
 
 In the Forms Modernization initiative, I helped make ministry forms accessible and compliant with the Accessibility for Ontarians with Disabilities Act (AODA) standards. I developed AODA-compliant prototypes, updated identifying data, and collaborated with the DDISB forms team to ensure adherence to accessibility standards, contributing to meeting the Ontario Digital Accessibility Standard by September 1, 2024.
+
+I actively participated in Career Speaking Events where I learnt about ArcGIS Online Products, GPS Transmitters and Wildlife Data Collection and Management.
+
+
