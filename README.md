@@ -10,6 +10,6 @@ For the ROD (Regional Operations Division) SharePoint site, I improved functiona
 
 In the Forms Modernization initiative, I helped make ministry forms accessible and compliant with the Accessibility for Ontarians with Disabilities Act (AODA) standards. I developed AODA-compliant prototypes, updated identifying data, and collaborated with the DDISB forms team to ensure adherence to accessibility standards, contributing to meeting the Ontario Digital Accessibility Standard by September 1, 2024.
 
-I actively participated in Career Speaking Events where I learnt about ArcGIS Online Products, GPS Transmitters and Wildlife Data Collection and Management.
+I actively participated in Career Speaking Events where I learnt about ArcGIS Online Products, GPS Transmitters and Wildlife Data Collection and Management. I had the opportunity to become familiar with Mobile Data Collection practices through Field Training with use of softwares such as TerraFlex and FielMaps. I also got the chance to familiarize myself as to how collected data is processed using Pyhton coding stored in a master database and produced into reports that Field Technicians can access to review inspection notes.
 
 
